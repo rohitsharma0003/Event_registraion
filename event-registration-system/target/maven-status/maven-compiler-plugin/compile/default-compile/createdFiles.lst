@@ -1,0 +1,9 @@
+com\example\eventregistration\controller\RegistrationController.class
+com\example\eventregistration\repository\EventRepository.class
+com\example\eventregistration\service\EventService.class
+com\example\eventregistration\model\Event.class
+com\example\eventregistration\service\RegistrationService.class
+com\example\eventregistration\model\Registration.class
+com\example\eventregistration\repository\RegistrationRepository.class
+com\example\eventregistration\controller\EventController.class
+com\example\eventregistration\EventRegistrationApplication.class

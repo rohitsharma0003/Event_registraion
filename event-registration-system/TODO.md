@@ -1,0 +1,27 @@
+# TODO List for Event Registration System
+
+- [x] Create project directory and pom.xml
+- [x] Create Event entity
+- [x] Create Registration entity
+- [x] Create EventRepository
+- [x] Create RegistrationRepository
+- [x] Create EventService
+- [x] Create RegistrationService
+- [x] Create EventController
+- [x] Create RegistrationController
+- [x] Create application.properties
+- [x] Create index.html template
+- [x] Create events.html template
+- [x] Create register.html template
+- [x] Create static CSS file
+- [x] Create static JS file
+- [x] Test the application
+- [x] Switch to file-based H2 database
+- [x] Create event-form.html template
+- [x] Create comprehensive README.md
+- [ ] Add dynamic UI features (AJAX, search, pagination)
+- [ ] Add dashboard with statistics
+- [ ] Add event categories
+- [ ] Add real-time updates
+- [ ] Add export functionality
+- [ ] Enhance styling and animations
